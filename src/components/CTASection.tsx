@@ -135,24 +135,7 @@ export default function CTASection() {
         >
           Open to internships
         </motion.h2>
-        <motion.h2
-          initial={{ x: 60, opacity: 0 }}
-          whileInView={{ x: 0, opacity: 1 }}
-          viewport={{ once: true, amount: 0 }}
-          transition={{ type: "spring", ...ENTRY_SPRING, delay: 0.1 }}
-          style={{
-            fontFamily: "'Instrument Serif', serif",
-            fontStyle: "italic",
-            fontSize: "clamp(40px, 6vw, 72px)",
-            background: "linear-gradient(to right, #fff 0%, #fff 45%, #e4e4e7 100%)",
-            WebkitBackgroundClip: "text",
-            color: "transparent",
-            margin: "0 0 24px",
-            lineHeight: 1.1,
-          }}
-        >
-          and collaborations.
-        </motion.h2>
+        
 
         <motion.p
           initial={{ opacity: 0, y: 20 }}
