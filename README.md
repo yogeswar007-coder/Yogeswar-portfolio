@@ -2,7 +2,7 @@
 
 Personal portfolio website showcasing my work in AI/ML and Brain-Computer Interface research.
 
-🔗 **Live Site:** [yogeswar-portfolio.vercel.app](https://yogeswar-portfolio.vercel.app)
+🔗 **Live Site:** [yogeswar-portfolio.vercel.app]([https://yogeswar-portfolio.vercel.app](https://yogeswar-portfolio-2qq9ixckk-yogeswar-s-projects.vercel.app))
 
 ---
 
